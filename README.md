@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/rdpeka/Simulated-SOC">Simulated SOC</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/rdpeka/Traffic-Analysis">Traffic Analysis</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/rdpeka/Simulated-SOC">Simulated SOC</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Case Management with TheHive                  | <a href="https://github.com/rdpeka/Simulated-SOC">Simulated SOC</a>|
 | Compliance Controls Implementation | Data Management with Azure|
 
 

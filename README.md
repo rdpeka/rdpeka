@@ -62,3 +62,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - <a href="https://github.com/rdpeka/Simulated-SOC">Simulated SOC</a>
+- <a href="https://github.com/rdpeka/Traffic-Analysis/tree/main">Traffic Analysis</a>

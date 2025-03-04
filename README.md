@@ -42,6 +42,12 @@ My journey in computer science has led me to develop a passion for technology, a
     <img src="https://img.shields.io/badge/-CrowdStrike Falcon-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
+### Ticketing 
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-006400?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ZenDesk-1679A7?&style=for-the-badge&logoColor=white" />
+</div>
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />

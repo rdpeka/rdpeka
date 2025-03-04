@@ -3,7 +3,7 @@
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an Information Technology professional with a profound interest in technology and a dedication to solving complex problems.
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into Cyber Security.
 
@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/rdpeka/Traffic-Analysis/tree/main">Traffic Analysis</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/rdpeka/Simulated-SOC">Simulated SOC</a>|
 | Case Management with TheHive                  | <a href="https://github.com/rdpeka/Simulated-SOC">Simulated SOC</a>|
-| Compliance Controls Implementation | Data Management with Azure|
+| Compliance Controls Management                | <a href="https://github.com/rdpeka/Compliance-Controls-Implementation">Compliance Controls Implementation</a>|
 
 
 ## Tools
@@ -60,6 +60,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/rdpeka/Compliance-Controls-Implementation">Compliance Controls Implementation</a>
 - <a href="https://github.com/rdpeka/Simulated-SOC">Simulated SOC</a>
 - <a href="https://github.com/rdpeka/Traffic-Analysis/tree/main">Traffic Analysis</a>
